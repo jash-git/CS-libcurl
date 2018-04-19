@@ -1,0 +1,9 @@
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Release\libcurl.dll
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Release\LibCurlNet.dll
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Release\LibCurlShim.dll
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Release\ca-bundle.crt
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Release\CS_libcurl.exe
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Release\CS_libcurl.pdb
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\obj\x86\Release\CS_libcurl.exe
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\obj\x86\Release\CS_libcurl.pdb
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\obj\x86\Release\CS_libcurl.csprojResolveAssemblyReference.cache

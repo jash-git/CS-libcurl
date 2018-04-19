@@ -1,0 +1,8 @@
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Debug\libcurl.dll
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Debug\LibCurlNet.dll
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Debug\LibCurlShim.dll
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Debug\ca-bundle.crt
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Debug\CS_libcurl.exe
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\bin\Debug\CS_libcurl.pdb
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\obj\x86\Debug\CS_libcurl.exe
+C:\Users\RD\Desktop\CS_libcurl\CS_libcurl\obj\x86\Debug\CS_libcurl.pdb
